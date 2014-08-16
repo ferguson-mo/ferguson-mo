@@ -1,4 +1,4 @@
-ferguson-mo
-===========
+## Purpose
 
-Main repository to hold issues/requests by residents of Ferguson
+To provide a platform where the residents of Ferguson, Missouri may make requests
+for open souce software to be built for them, free of charge.
